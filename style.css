@@ -1,0 +1,34 @@
+
+
+.head1{
+background-color: cornflowerblue;
+color: brown;
+}
+.head2{
+  text-align: center;
+  background-color: blueviolet;
+  color: aquamarine;
+}
+.head3{
+    text-align: right;
+  background-color: crimson;
+  color: greenyellow;
+  }
+  h2{
+     text-decoration: underline;
+     color: rgb(151, 11, 11);
+  }
+  h3{
+      font-size: 25px;
+      color: blue;
+  }
+  h4{
+    font-size: 22px;
+    color: rgb(255, 0, 212);
+  }
+  .pro{
+      border-radius: 50%;
+  }
+  body{
+    background-color: beige;
+  }
